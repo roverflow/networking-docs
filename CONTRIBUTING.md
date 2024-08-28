@@ -11,6 +11,7 @@ Our team policies are largely shaped by our workflow. Please make sure you are f
 - Start by forking the repository relevant to your work, creating a personal repository.
 - Develop your changes within the designated branch for your commits.
 - Open a Pull Request back to the main collection repository and ensure it includes a clear explanation of the changes made and why they are being made.
+- Add a changelog, you can check any one of the old PRs for changelog reference.
 - Patiently await reviews and be prepared to make any required code modifications based on feedback.
 - Seek a final review from one of the repository maintainers.
 
